@@ -50,7 +50,7 @@ public:
 	void setWeight(double weight[]) {
 		this->value = value;
 	}
-	double getWeight() { // Доделать
+	double getWeight() { // Доделать метод
 		return this->value;
 	}
 };
